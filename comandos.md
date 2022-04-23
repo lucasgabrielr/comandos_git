@@ -1,4 +1,4 @@
-git init - 	para iniciar a linha do tempo
+git init - 	para iniciar a linha do tempo</p>
 git add	 -	para adcionar todos os arquivos que foram alterados.		
 git commit -am		comita e deixa observações sobre o commit
 git log	 - 	para saber o histórico dos commits

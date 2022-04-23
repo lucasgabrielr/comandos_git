@@ -7,3 +7,5 @@ git checkout “nome do brench que quer mudar” muda o brench
 git config --global user.name  - para definir o nome do usuário
 git config --global user.email - para definir o email do usuário
 git config --global - para definir o editor de texto em que o usuário está usando.
+git push -u origin master - enviar arquivos para o repositório remoto.
+git pull - atuliza os aruivos de acordo com o repositório remoto
